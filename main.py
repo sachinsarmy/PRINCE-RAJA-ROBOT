@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 
 # ================= HARD CODED TOKEN =================
-BOT_TOKEN = "8514618354:AAFVRVtoJqua2mTG2q8Tv4jkg_v7x3lmwkw"
+BOT_TOKEN = "7964652873:AAGrU-UsxR1_7pUI8luOTpM7gNvB0J4q8_8"
 # ====================================================
 
 APK_PATH = "PRINCE NUMBER SHORT VIP.apk"
@@ -89,6 +89,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
